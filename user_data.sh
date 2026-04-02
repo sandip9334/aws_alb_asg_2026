@@ -142,8 +142,8 @@ footer{max-width:1100px; margin:0 auto 40px; padding:0 clamp(16px, 4vw, 28px); f
     </div>
 
     <div class="cta">
-      <a class="btn primary" href="https://amazon.com" target="_blank">Explore AWS Free Tier</a>
-      <a class="btn ghost" href="https://amazon.com" target="_blank">Learning Path</a>
+      <a class="btn primary" href="https://aws.amazon.com" target="_blank">Explore AWS Free Tier</a>
+      <a class="btn ghost" href="https://skillbuilder.aws" target="_blank">Learning Path</a>
     </div>
   </section>
 
